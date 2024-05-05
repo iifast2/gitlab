@@ -3,7 +3,14 @@ file 6
 
 
 
+<<<<<<< HEAD
 this is a local change ! 
 
 
 hello there ! 
+=======
+HELLO WORLD !!!!!! 
+
+
+TXT HERE !!!! 
+>>>>>>> 8ec0ec039edcbc993176cb67e1830ed39276e1c2
